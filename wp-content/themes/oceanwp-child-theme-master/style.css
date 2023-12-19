@@ -102,3 +102,10 @@ Version: 1.0
     margin-bottom:10px;
     border-bottom: 1px solid #28babf;
 }
+
+/* B o u t o n  M e n u                       */
+
+#site-navigation-wrap .dropdown-menu{
+    display: flex;
+    align-items: center;
+}

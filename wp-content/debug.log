@@ -5456,3 +5456,89 @@ Stack trace:
 [18-Dec-2023 00:01:08 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
 [18-Dec-2023 00:06:12 UTC] PHP Warning:  Undefined array key 0 in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
 [18-Dec-2023 00:09:54 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[18-Dec-2023 10:50:50 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[18-Dec-2023 11:11:11 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[18-Dec-2023 17:38:51 UTC] PHP Fatal error:  Cannot use [] for reading in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[18-Dec-2023 17:39:01 UTC] PHP Fatal error:  Cannot use [] for reading in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:41:54 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:42:08 UTC] PHP Deprecated:  Function _register_controls is <strong>deprecated</strong> since version 3.1.0! Use Elementor\Controls_Stack::register_controls() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:42:08 UTC] PHP Warning:  Undefined array key "file" in C:\MAMP\htdocs\medit\wp-content\plugins\query-monitor\collectors\php_errors.php on line 380
+[18-Dec-2023 17:42:08 UTC] PHP Warning:  Undefined array key "line" in C:\MAMP\htdocs\medit\wp-content\plugins\query-monitor\collectors\php_errors.php on line 380
+[18-Dec-2023 17:42:08 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Scheme_Typography" not found in C:\MAMP\htdocs\medit\wp-content\plugins\ocean-elementor-widgets\modules\accordion\widgets\accordion.php:244
+Stack trace:
+#0 C:\MAMP\htdocs\medit\wp-content\plugins\elementor\includes\base\controls-stack.php(2325): owpElementor\Modules\Accordion\Widgets\Accordion->_register_controls()
+#1 C:\MAMP\htdocs\medit\wp-content\plugins\elementor\includes\base\controls-stack.php(496): Elementor\Controls_Stack->init_controls()
+#2 C:\MAMP\htdocs\medit\wp-content\plugins\elementor\includes\base\widget-base.php(177): Elementor\Controls_Stack->get_stack()
+#3 C:\MAMP\htdocs\medit\wp-content\plugins\elementor\includes\managers\widgets.php(351): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\MAMP\htdocs\medit\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 C:\MAMP\htdocs\medit\wp-includes\class-wp-hook.php(308): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#7 C:\MAMP\htdocs\medit\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#8 C:\MAMP\htdocs\medit\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\MAMP\htdocs\medit\wp-admin\admin-ajax.php(188): do_action('wp_ajax_element...')
+#10 {main}
+  thrown in C:\MAMP\htdocs\medit\wp-content\plugins\ocean-elementor-widgets\modules\accordion\widgets\accordion.php on line 244
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:14 UTC] PHP Deprecated:  Function _content_template is <strong>deprecated</strong> since version 2.9.0! Use Elementor\Controls_Stack::content_template() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:27 UTC] PHP Deprecated:  Function _register_controls is <strong>deprecated</strong> since version 3.1.0! Use Elementor\Controls_Stack::register_controls() instead. in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5383
+[18-Dec-2023 17:44:27 UTC] PHP Warning:  Undefined array key "file" in C:\MAMP\htdocs\medit\wp-content\plugins\query-monitor\collectors\php_errors.php on line 380
+[18-Dec-2023 17:44:27 UTC] PHP Warning:  Undefined array key "line" in C:\MAMP\htdocs\medit\wp-content\plugins\query-monitor\collectors\php_errors.php on line 380
+[18-Dec-2023 17:44:27 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Scheme_Typography" not found in C:\MAMP\htdocs\medit\wp-content\plugins\ocean-elementor-widgets\modules\accordion\widgets\accordion.php:244
+Stack trace:
+#0 C:\MAMP\htdocs\medit\wp-content\plugins\elementor\includes\base\controls-stack.php(2325): owpElementor\Modules\Accordion\Widgets\Accordion->_register_controls()
+#1 C:\MAMP\htdocs\medit\wp-content\plugins\elementor\includes\base\controls-stack.php(496): Elementor\Controls_Stack->init_controls()
+#2 C:\MAMP\htdocs\medit\wp-content\plugins\elementor\includes\base\widget-base.php(177): Elementor\Controls_Stack->get_stack()
+#3 C:\MAMP\htdocs\medit\wp-content\plugins\elementor\includes\managers\widgets.php(351): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\MAMP\htdocs\medit\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 C:\MAMP\htdocs\medit\wp-includes\class-wp-hook.php(308): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#7 C:\MAMP\htdocs\medit\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#8 C:\MAMP\htdocs\medit\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\MAMP\htdocs\medit\wp-admin\admin-ajax.php(188): do_action('wp_ajax_element...')
+#10 {main}
+  thrown in C:\MAMP\htdocs\medit\wp-content\plugins\ocean-elementor-widgets\modules\accordion\widgets\accordion.php on line 244
